@@ -1,0 +1,9 @@
+# Dossiers générés par eclipse
+.idea/
+
+# Fichiers de build Java
+/target/
+/build/
+/classes/
+/bin/
+/out/
